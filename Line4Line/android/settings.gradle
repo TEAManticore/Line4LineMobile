@@ -1,0 +1,3 @@
+rootProject.name = 'Line4Line'
+
+include ':app'
